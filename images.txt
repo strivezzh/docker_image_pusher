@@ -1,1 +1,1 @@
-elasticsearch:7.17.3
+rabbitmq:4.0.2-management
